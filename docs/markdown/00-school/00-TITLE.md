@@ -1,43 +1,10 @@
-<!-- .slide: class="first-slide" sfeir-level="2" sfeir-techno="xxx" -->
+<!-- .slide: class="first-slide" sfeir-level="2" sfeir-techno="" -->
 
-# **Welcome to SFEIR School**
+# **Dotfiles**
 
-## **XXX 200**
+## **Développeur: prenez le contrôle de votre poste, et commencez à provisionner vos "dotfiles" !**
 
-##==##
-
-<!-- .slide: class="bg-blur" -->
-
-<br>
-
-### Wifi available
-
-<br>
-
-![sfeir-icons](wifi)<!-- .element: style="--icon-size:300px; --icon-color:var(--light-grey);" -->
-
-<br>
-
-Credentials
-
-<!-- .element: class="center" -->
-<br>
-
-![sfeir-icons big](user)<!-- .element: style="--icon-color:var(--light-grey);" --> SSID
-
-![sfeir-icons big](lock)<!-- .element: style="--icon-color:var(--light-grey);" --> PWD
-
-##==##
-
-# Déroulement de la formation
-
-<p class="center">
-C'est quand la pause ?<br>
-Quand est-ce qu'on mange ?<br>
-Tour de table ...
-</p>
-<br><br>
-
-**Feuille de présence (obligatoire)** <!-- .element: class="center" -->
-
-https://bit.ly/sfeir-xxx <!-- .element: class="center" -->
+Notes: 0:00 @antoine
+* Bonjour bienvenue à notre présentation sur Semantic Release
+* Nous allons voir comment donner du sens à vos commits
+* Et comment utiliser les messages de commit pour automatiser la release de vos projets
