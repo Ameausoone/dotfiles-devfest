@@ -8,6 +8,13 @@
 
 - Gère plusieurs versions d'un même outil
 - Plus facile à utiliser que `tfswitch`, `pyenv`, etc.
+- Gère les versions de:
+  - Terraform
+  - Python
+  - Node.js
+  - Java
+  - etc.
+- Nouveau challenger: [rtx](https://github.com/jdx/rtx) 3.4k⭐️
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -27,7 +34,10 @@ Notes:
 
 - Exécute des scripts automatiquement en entrant/quittant un répertoire
 - Charge des variables d'environnement, lance des scripts sur demande
-- Exemple: charger un environnement virtuel Python, lancer un serveur local
+- Exemples: 
+  - Charger un environnement virtuel Python, 
+  - Lancer un serveur local
+  - Charger des credentials dans un répertoire spécifique
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -43,7 +53,7 @@ Notes:
   - Temps d'exécution de la dernière commande
   - Résultat de la dernière commande
   - État du repo git
-  - Environnements virtuels (virtualenv, kubernetes, etc.)
+  - Environnements (virtualenv, kubernetes, etc.)
 <!-- .element: class="list-fragment" -->
 
 Notes:

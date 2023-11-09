@@ -3,6 +3,8 @@
 
 - commencer à provisionner mon poste depuis un peu plus de 6 ans.
 - Ansible pour automatiser la configuration de mon poste
+- [Opensourcer](https://github.com/Ameausoone/macos-provision) depuis 2 ans
+- Je me suis inspiré de [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) 5.6k ⭐️
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -15,8 +17,8 @@ Notes:
 # Concrétement ?
 
 2 commandes:
-- `macconfig` pour ouvrir mon projet dans IntelliJ
-- `macans` pour appliquer ma configuration
+- `macconfig`: pour ouvrir mon projet dans IntelliJ
+- `macans`: pour appliquer ma configuration
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -27,9 +29,10 @@ Notes:
 <!-- .slide: -->
 # Pourquoi ?
 
-- Entendu parler du principe des dotfiles
+- Entendu parler du provisionning de conf
 - Pouvoir réinstaller mon poste rapidement (même si ça arrive très rarement).
 - Surtout: maîtriser la configuration de mon poste.
+- Capitaliser 
 <!-- .element: class="list-fragment" -->
 
 Notes: @antoine

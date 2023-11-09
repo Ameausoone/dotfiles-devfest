@@ -2,9 +2,9 @@
 # Conclusion
 
 - Approfondissement de la connaissance des outils
-- Importance de la documentation pour l'apprentissage
-- Potentiel inexploité
-- Sécurisation et portabilité de la configuration
+- Capitalisation de la configuration
+- Découverte d'outils et de configuration utiles
+- Sécurisation de ma configuration
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -18,9 +18,9 @@ Notes:
 # Comment démarrer ?
 
 - Commencer avec un projet personnel
-- Ansible peut sembler complexe mais est bien documenté
-- Explorez [dotfiles.github.io](https://dotfiles.github.io/) pour des ressources
+- Ansible peut être overkill, du moins éviter les playbooks
 - Simplifiez avec deux commandes essentielles: ouvrir et appliquer la configuration
+- Explorez [dotfiles.github.io](https://dotfiles.github.io/) pour de l'inspiration
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -34,9 +34,8 @@ Notes:
 # Pour aller plus loin ?
 
 - Intégrer des tests pour vos scripts
-- Explorer `nix-shell` pour la gestion d'environnements
+- Explorer [nix](https://github.com/NixOS/nix) pour la gestion d'environnements reproductibles ou [cachix/devenv](https://github.com/cachix/devenv)
 - Adopter un IDE en ligne tel que [Gitpod](https://www.gitpod.io/) ou [Codespaces](https://docs.github.com/en/codespaces/overview)
-
 <!-- .element: class="list-fragment" -->
 
 Notes:
