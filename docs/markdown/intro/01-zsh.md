@@ -4,7 +4,8 @@
 - Comment pimper mon shell ?
 - `zsh`
 - `oh-my-zsh`
-- Mes outils préférés 
+- Mais aussi : fish, powershell, etc.
+- Mes features/outils préférés 
 <!-- .element: class="list-fragment" -->
 
 Notes:

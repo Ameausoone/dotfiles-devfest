@@ -56,6 +56,7 @@ Notes:
 # Contenu des Scripts
 
 - Variables d'environnement
+- Aliases/Scripts
 - Activation de l'autocomplétion
 - Configurations spécifiques
 <!-- .element: class="list-fragment" -->

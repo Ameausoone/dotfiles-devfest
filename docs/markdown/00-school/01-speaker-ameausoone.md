@@ -3,7 +3,7 @@
 # 👋
 
 ![speaker](./assets/images/ameausoone.jpg)
-![company](./assets/images/logo-SFEIR-blanc.png)
+![company](./assets/images/logo-sfeir-blanc.png)
 
 <h2> Antoine <span>Méausoone</span></h2>
 
