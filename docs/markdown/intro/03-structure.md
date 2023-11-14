@@ -2,6 +2,9 @@
 <!-- .slide: class="transition bg-green" -->
 # Structure du projet
 
+Notes:
+9m20s
+
 ##==##
 <!-- .slide: -->
 # .zshrc: Le Cœur de la Configuration zsh
@@ -87,6 +90,10 @@ alias ap="ansible-playbook"
 alias apd="ansible-playbook --diff"
 alias apdv="ansible-playbook --diff --verbose"
 ```
+
+Notes:
+11m40s
+
 ##==##
 <!-- .slide: -->
 # autoenv
@@ -134,4 +141,3 @@ source "$(asdf where gcloud)/path.zsh.inc"
 # The next line enables zsh completion for gcloud.
 source "$(asdf where gcloud)/completion.zsh.inc"
 ```
-

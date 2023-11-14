@@ -10,6 +10,7 @@
 Notes:
 * Commencer par quelque chose de connu
 * Ansible peut être overkill - réfléchir avant de l'utiliser pour de nouveaux utilisateurs
+* Je me suis inspiré du repo de Jeff Geerling, le pape d'Ansible
 
 ##==##
 <!-- .slide: -->
@@ -61,6 +62,7 @@ homebrew_installed_packages:
 ```
 
 Notes:
+2m20s
 * Structuration de l'environnement avec des outils familiers via Homebrew, 
 * ou sur Windows avec Chocolatey
 * Facilitation de l'installation et de la mise à jour des outils utilisés régulièrement
@@ -136,5 +138,3 @@ function macans() {
 Notes:
 *"macconfig" simplifie l'accès à la configuration du projet
 *"macans" combine les commandes Git avec l'exécution d'Ansible pour une mise à jour rapide
-
-

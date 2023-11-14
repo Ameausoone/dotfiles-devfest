@@ -2,6 +2,9 @@
 <!-- .slide: class="transition bg-green" -->
 # Dotfiles
 
+Notes:
+14m00s
+
 ##==##
 <!-- .slide: -->
 # Gestion des Dotfiles
@@ -81,6 +84,7 @@ Notes:
 ```
 
 Notes:
+16m20s
 * `push.default`: permet de pusher uniquement la branche courante
 * `pull.rebase`: permet de faire un rebase au lieu d'un merge
 * `fetch.prune`: permet de supprimer les branches distantes supprimées

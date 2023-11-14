@@ -4,16 +4,17 @@
 
 ##==##
 <!-- .slide: -->
-# [asdf](https://github.com/asdf-vm/asdf) 18.9k⭐️: Gestionnaire de versions polyvalent
+# [asdf](https://github.com/asdf-vm/asdf) 19k⭐️: Gestionnaire de versions polyvalent
 
 - Gère plusieurs versions d'un même outil
 - Plus facile à utiliser que `tfswitch`, `pyenv`, etc.
 - Gère les versions de:
-  - Terraform
-  - Python
-  - Node.js
-  - Java
-  - etc.
+- Terraform
+- Python
+- Node.js
+- Java
+- etc.
+- + de 700 plugins
 - Nouveau challenger: [rtx](https://github.com/jdx/rtx) 3.4k⭐️
 <!-- .element: class="list-fragment" -->
 
@@ -28,6 +29,9 @@ Notes:
 
 ![h-600](./assets/images/asdf-demo.gif)
 
+Notes:
+7m00s
+
 ##==##
 <!-- .slide: -->
 # autoenv: Automatisation par répertoire
@@ -35,9 +39,9 @@ Notes:
 - Exécute des scripts automatiquement en entrant/quittant un répertoire
 - Charge des variables d'environnement, lance des scripts sur demande
 - Exemples: 
-  - Charger un environnement virtuel Python, 
-  - Lancer un serveur local
-  - Charger des credentials dans un répertoire spécifique
+- Charger un environnement virtuel Python, 
+- Lancer un serveur local
+- Charger des credentials dans un répertoire spécifique
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -50,10 +54,10 @@ Notes:
 
 - Prompt complet, configurable et rapide
 - Affiche des informations diverses en temps réel:
-  - Temps d'exécution de la dernière commande
-  - Résultat de la dernière commande
-  - État du repo git
-  - Environnements (virtualenv, kubernetes, etc.)
+- Temps d'exécution de la dernière commande
+- Résultat de la dernière commande
+- État du repo git
+- Environnements (virtualenv, kubernetes, etc.)
 <!-- .element: class="list-fragment" -->
 
 Notes:

@@ -8,6 +8,7 @@
 <!-- .element: class="list-fragment" -->
 
 Notes:
+18m35s
 * L'expérience a enrichi la maîtrise technique des outils quotidiens.
 * L'incitation à explorer activement la documentation des outils.
 * Reconnaissance des capacités étendues de Powerlevel10k à explorer.
@@ -33,8 +34,9 @@ Notes:
 <!-- .slide: -->
 # Pour aller plus loin ?
 
-- Intégrer des tests pour vos scripts
-- Explorer [nix](https://github.com/NixOS/nix) pour la gestion d'environnements reproductibles ou [cachix/devenv](https://github.com/cachix/devenv)
+- Écrire des tests
+- Explorer [nix](https://github.com/NixOS/nix) pour la gestion d'environnements reproductibles 
+- ou [cachix/devenv](https://github.com/cachix/devenv)
 - Adopter un IDE en ligne tel que [Gitpod](https://www.gitpod.io/) ou [Codespaces](https://docs.github.com/en/codespaces/overview)
 <!-- .element: class="list-fragment" -->
 
@@ -46,6 +48,8 @@ Notes:
 ##==##
 <!-- .slide: class="transition bg-pink" -->
 # 🙏 Merci
+
+![qrcode](./assets/images/qrcode-feedback.png)
 
 Notes: @Antoine
 * Merci pour votre attention

@@ -19,9 +19,12 @@ Notes:
 ##==##
 <!-- .slide: -->
 
-# auto completion
+# auto-completion
 
 ![h-600](./assets/images/autocompletion.gif)
+
+Notes:
+4m40s
 
 ##==##
 <!-- .slide: -->
@@ -34,7 +37,7 @@ Notes:
 <!-- .slide: -->
 # Plugins oh-my-zsh
 
-- Nombreux plugins ["out of the box"](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins)
+- Nombreux plugins ["out of the box"](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) (+ de 300 plugins)
 - Ajout de plugins personnalisés facilité
 - Ma liste dispo => [01_oh-my-zsh-plugins.zsh](https://github.com/Ameausoone/macos-provision/blob/main/roles/mac_dev_playbook/files/.zshrc.d/core/01_oh-my-zsh-plugins.zsh#L6)
 <!-- .element: class="list-fragment" -->
