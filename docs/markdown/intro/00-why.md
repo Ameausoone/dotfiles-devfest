@@ -1,10 +1,10 @@
 <!-- .slide: -->
 # Comment j'ai commencé ?
 
-- commencer à provisionner mon poste depuis un peu plus de 6 ans.
+- Commencer à provisionner mon poste depuis un peu plus de 6 ans.
 - Ansible pour automatiser la configuration de mon poste
 - [Opensourcer](https://github.com/Ameausoone/macos-provision) depuis 2 ans
-- Je me suis inspiré de [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) 5.6k ⭐️
+- Inspiré de [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) 5.6k⭐️
 <!-- .element: class="list-fragment" -->
 
 Notes:

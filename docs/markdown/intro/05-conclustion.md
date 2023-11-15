@@ -22,6 +22,8 @@ Notes:
 - Ansible peut être overkill, du moins éviter les playbooks
 - Simplifiez avec deux commandes essentielles: ouvrir et appliquer la configuration
 - Explorez [dotfiles.github.io](https://dotfiles.github.io/) pour de l'inspiration
+- [lra/mackup](https://github.com/lra/mackup) 13.8k⭐️
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) 10.3k⭐️
 <!-- .element: class="list-fragment" -->
 
 Notes:
