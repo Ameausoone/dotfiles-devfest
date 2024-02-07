@@ -1,4 +1,3 @@
-##==##
 <!-- .slide: class="transition bg-green" -->
 # MacOS
 
@@ -14,6 +13,7 @@ Notes:
 - `defaults write com.apple.dock autohide -bool true` pour cacher le dock
 - `defaults write com.apple.finder AppleShowAllFiles YES` pour afficher les fichiers cachés
 - `defaults write com.apple.LaunchServices LSQuarantine -bool false` pour désactiver les avertissements de sécurité
+<!-- .element: class="list-fragment" -->
 
 ##==##
 <!-- .slide: -->
@@ -30,5 +30,6 @@ defaults write com.apple.screensaver askForPasswordDelay -int 0
 defaults write NSGlobalDomain AppleFontSmoothing -int 1
 # Finder: disable window animations and Get Info animations
 defaults write com.apple.finder DisableAllAnimations -bool true
+[...]
 ```
 

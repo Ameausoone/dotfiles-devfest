@@ -1,7 +1,5 @@
-##==##
 <!-- .slide: class="transition bg-green" -->
 # Dotfiles: .gitconfig
-
 
 Notes: 
 * Et là je voudrais faire un focus sur .gitconfig
@@ -88,7 +86,7 @@ Thumbs.db
 
 .gitmessage
 ```text
-<type>(<scope>): <subject>
+<type>(<scope>)(!): <subject>
 
 <body>
 

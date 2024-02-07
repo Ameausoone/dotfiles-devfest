@@ -6,7 +6,6 @@
 - Shell
 - Alias/fonctions
 - MacOS
-- Votre IDE
 <!-- .element: class="list-fragment" -->
 
 Notes:

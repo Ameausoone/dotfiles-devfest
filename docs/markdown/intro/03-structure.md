@@ -1,4 +1,3 @@
-##==##
 <!-- .slide: class="transition bg-green" -->
 # Structure de zsh
 
@@ -61,7 +60,7 @@ Notes:
 
 - Variables d'environnement
 - Aliases/Scripts
-- Configuration du path
+- Configuration du PATH
 - Activation de l'autocomplétion
 - Configurations spécifiques
 <!-- .element: class="list-fragment" -->

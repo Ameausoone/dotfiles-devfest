@@ -19,7 +19,7 @@ Notes:
 # Comment démarrer ?
 
 - Commencer avec un projet personnel
-- Ansible peut être overkill, du moins éviter les playbooks
+- Ansible peut être overkill, du moins, éviter les playbooks
 - Simplifiez avec deux commandes essentielles: ouvrir et appliquer la configuration
 - Explorez [dotfiles.github.io](https://dotfiles.github.io/) pour de l'inspiration
 - [lra/mackup](https://github.com/lra/mackup) 13.8k⭐️
@@ -51,7 +51,7 @@ Notes:
 <!-- .slide: class="transition bg-pink" -->
 # 🙏 Merci
 
-![qrcode](./assets/images/qrcode-feedback.png)
+![h-200 qrcode](./assets/images/qrcode-feedback.png)
 
 Notes: @Antoine
 * Merci pour votre attention

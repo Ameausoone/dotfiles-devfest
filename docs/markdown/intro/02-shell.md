@@ -1,11 +1,9 @@
 <!-- .slide: -->
-# Personnalisation du shell
+# Shell
 
-- Comment pimper mon shell ?
 - `zsh`
 - `oh-my-zsh`
 - Mais aussi : fish, powershell, etc.
-- Mes features/outils préférés 
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -40,6 +38,9 @@ Notes:
 - Nombreux plugins ["out of the box"](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins) (+ de 300 plugins)
 - Ajout de plugins personnalisés facilité
 - Ma liste dispo => [01_oh-my-zsh-plugins.zsh](https://github.com/Ameausoone/macos-provision/blob/main/roles/mac_dev_playbook/files/.zshrc.d/core/01_oh-my-zsh-plugins.zsh#L6)
+- colorize
+- git
+- macos
 <!-- .element: class="list-fragment" -->
 
 Notes:
