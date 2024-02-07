@@ -19,7 +19,8 @@ Notes:
 <!-- .slide: -->
 # Exemple
 
-- Vous pouvez trouver des exemples exhaustifs sur [driesvints/dotfiles/.macos](https://github.com/driesvints/dotfiles/blob/main/.macos)
+- Exemple de conf: [driesvints/dotfiles/.macos](https://github.com/driesvints/dotfiles/blob/main/.macos)
+- Un site consacré à la configuration de MacOS: [macos-defaults.com](https://macos-defaults.com/)
 
 .macos
 ```shell

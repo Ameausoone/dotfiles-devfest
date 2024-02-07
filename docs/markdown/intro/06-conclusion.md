@@ -39,7 +39,7 @@ Notes:
 - Écrire des tests
 - Explorer [nix](https://github.com/NixOS/nix) pour la gestion d'environnements reproductibles 
 - ou [cachix/devenv](https://github.com/cachix/devenv)
-- Adopter un IDE en ligne tel que [Gitpod](https://www.gitpod.io/) ou [Codespaces](https://docs.github.com/en/codespaces/overview)
+- Essayer un IDE en ligne [Codespaces](https://docs.github.com/en/codespaces/overview)
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -51,7 +51,7 @@ Notes:
 <!-- .slide: class="transition bg-pink" -->
 # 🙏 Merci
 
-![h-200 qrcode](./assets/images/qrcode-feedback.png)
+![h-300 qrcode](./assets/images/qrcode-feedback.png)
 
 Notes: @Antoine
 * Merci pour votre attention
