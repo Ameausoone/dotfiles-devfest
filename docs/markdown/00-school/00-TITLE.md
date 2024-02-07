@@ -4,7 +4,7 @@
 
 ## **Développeur: prenez le contrôle de votre poste, et commencez à provisionner vos "dotfiles" !**
 
-![qrcode](./assets/images/qrcode-feedback.png)
+![h-300 qrcode](./assets/images/qrcode-feedback.png)
 
 Notes: 0:00 @antoine
 * Bonjour bienvenue à notre présentation sur les dotfiles

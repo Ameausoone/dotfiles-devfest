@@ -1,6 +1,5 @@
-##==##
 <!-- .slide: class="transition bg-green" -->
-# Structure du projet
+# Structure de zsh
 
 Notes:
 9m20s
@@ -49,6 +48,7 @@ Notes:
 │       ├── 80_p10k.zsh
 │       └── 90_antigen.zsh
 ```
+
 Notes:
 * L'ordre numérique garantit la priorité et la charge séquentielle
 * Assure que les dépendances soient respectées lors du chargement
@@ -60,6 +60,7 @@ Notes:
 
 - Variables d'environnement
 - Aliases/Scripts
+- Configuration du PATH
 - Activation de l'autocomplétion
 - Configurations spécifiques
 <!-- .element: class="list-fragment" -->
@@ -93,15 +94,6 @@ alias apdv="ansible-playbook --diff --verbose"
 
 Notes:
 11m40s
-
-##==##
-<!-- .slide: -->
-# autoenv
-
-autoenv.zsh
-```shell
-source "$(brew --prefix autoenv)/activate.sh"
-```
 
 ##==##
 <!-- .slide: -->

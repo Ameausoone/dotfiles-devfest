@@ -1,9 +1,9 @@
 <!-- .slide: -->
 # Conclusion
 
+- Découverte d'outils et de configuration utiles
 - Approfondissement de la connaissance des outils
 - Capitalisation de la configuration
-- Découverte d'outils et de configuration utiles
 - Sécurisation de ma configuration
 <!-- .element: class="list-fragment" -->
 
@@ -19,7 +19,7 @@ Notes:
 # Comment démarrer ?
 
 - Commencer avec un projet personnel
-- Ansible peut être overkill, du moins éviter les playbooks
+- Ansible peut être overkill, du moins, éviter les playbooks
 - Simplifiez avec deux commandes essentielles: ouvrir et appliquer la configuration
 - Explorez [dotfiles.github.io](https://dotfiles.github.io/) pour de l'inspiration
 - [lra/mackup](https://github.com/lra/mackup) 13.8k⭐️
@@ -39,7 +39,7 @@ Notes:
 - Écrire des tests
 - Explorer [nix](https://github.com/NixOS/nix) pour la gestion d'environnements reproductibles 
 - ou [cachix/devenv](https://github.com/cachix/devenv)
-- Adopter un IDE en ligne tel que [Gitpod](https://www.gitpod.io/) ou [Codespaces](https://docs.github.com/en/codespaces/overview)
+- Essayer un IDE en ligne [Codespaces](https://docs.github.com/en/codespaces/overview)
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -51,7 +51,7 @@ Notes:
 <!-- .slide: class="transition bg-pink" -->
 # 🙏 Merci
 
-![qrcode](./assets/images/qrcode-feedback.png)
+![h-300 qrcode](./assets/images/qrcode-feedback.png)
 
 Notes: @Antoine
 * Merci pour votre attention

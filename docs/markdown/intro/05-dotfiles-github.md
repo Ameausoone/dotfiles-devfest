@@ -1,53 +1,5 @@
-##==##
 <!-- .slide: class="transition bg-green" -->
-# Dotfiles
-
-Notes:
-14m00s
-
-##==##
-<!-- .slide: -->
-# Gestion des Dotfiles
-
-- Tous les fichiers de configuration
-- `~/.zshrc`, `~/.gitconfig`, `~/.vimrc`, etc.
-
-Notes:
-* Les dotfiles assurent la cohérence entre les installations
-* `asdf` permet une gestion flexible des outils et de leurs versions
-* La maintenance est simplifiée grâce au suivi des dotfiles via Git
-
-##==##
-<!-- .slide: -->
-# asdf
-
-.tools-version
-```shell
-conftest v0.23.0
-flux2 0.22.1
-gcloud 415.0.0
-hugo 0.107.0
-helm 3.6.0
-kubectl 1.18.16
-kustomize 4.4.0
-```
-
-##==##
-<!-- .slide: -->
-# Powerlevel10k
-
-.p10k.zsh
-```shell
-[...]
-  typeset -g POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(
-    # =========================[ Line #1 ]=========================
-    status                  # exit code of the last command
-    command_execution_time  # duration of the last command
-    background_jobs         # presence of background jobs
-    direnv
-    asdf
-[...]
-```
+# Dotfiles: .gitconfig
 
 Notes: 
 * Et là je voudrais faire un focus sur .gitconfig
@@ -134,7 +86,7 @@ Thumbs.db
 
 .gitmessage
 ```text
-<type>(<scope>): <subject>
+<type>(<scope>)(!): <subject>
 
 <body>
 
