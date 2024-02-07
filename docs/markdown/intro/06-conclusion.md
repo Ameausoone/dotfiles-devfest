@@ -1,9 +1,9 @@
 <!-- .slide: -->
 # Conclusion
 
+- Découverte d'outils et de configuration utiles
 - Approfondissement de la connaissance des outils
 - Capitalisation de la configuration
-- Découverte d'outils et de configuration utiles
 - Sécurisation de ma configuration
 <!-- .element: class="list-fragment" -->
 

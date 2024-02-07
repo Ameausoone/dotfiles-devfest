@@ -1,5 +1,5 @@
 <!-- .slide: -->
-# On va creuser un peu plus
+# Personnalisation du shell
 
 - Comment pimper mon shell ?
 - `zsh`
@@ -19,9 +19,9 @@ Notes:
 ##==##
 <!-- .slide: -->
 
-# auto-completion
+# Auto-completion
 
-![h-600](./assets/images/autocompletion.gif)
+![h-600 center](./assets/images/autocompletion.gif)
 
 Notes:
 4m40s
@@ -31,7 +31,7 @@ Notes:
 
 # [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) 164k⭐️
 
-![h-600](./assets/images/oh-my-zsh.png)
+![h-600 center](./assets/images/oh-my-zsh.png)
 
 ##==##
 <!-- .slide: -->
@@ -46,3 +46,25 @@ Notes:
 * Flexibilité d'extension avec des plugins oh-my-zsh
 * Possibilité de consulter et d'ajouter des plugins via le lien fourni
 
+##==##
+<!-- .slide: -->
+# [Powerlevel10k](https://github.com/romkatv/powerlevel10k) 39.5k⭐: Prompt Dynamique pour zsh
+
+- Prompt complet, configurable et rapide
+- Affiche des informations diverses en temps réel
+- Temps d'exécution de la dernière commande
+- Résultat de la dernière commande
+- État du repo git
+- Environnements (virtualenv, kubernetes, etc.)
+<!-- .element: class="list-fragment" -->
+
+Notes:
+* `Powerlevel10k` offre une expérience de terminal améliorée
+* Fournit des retours immédiats et contextuels
+* Permet une personnalisation poussée pour répondre aux besoins spécifiques
+
+##==##
+<!-- .slide: -->
+# Powerlevel10k
+
+![h-600 center](./assets/images/powerlevel10k.png)

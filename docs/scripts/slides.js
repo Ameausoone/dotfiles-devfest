@@ -11,11 +11,13 @@ function schoolSlides() {
 function introSlides() {
   return [
   'intro/00-why.md',
-  'intro/01-zsh.md',
+  'intro/01-what.md',
+  'intro/02-shell.md',
   'intro/02-tools.md',
   'intro/03-structure.md',
-  'intro/04-dotfiles.md',
-  'intro/05-conclustion.md',
+  'intro/04-macos.md',
+  'intro/05-dotfiles-github.md',
+  'intro/06-conclusion.md',
   ];
 }
 
